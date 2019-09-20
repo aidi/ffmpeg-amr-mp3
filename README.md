@@ -26,8 +26,10 @@ make
 
 ## 4 安装到本地
 ### 建议先卸载本地的ffmpeg ，执行命令 apt remove ffmpeg 
-make install 
+make install  
+ldconfig
 
+### 不要忘记执行上面的 ldconfig 命令
 
 
 
