@@ -10,7 +10,7 @@ apt -y install libopencore-amrnb-dev
 apt -y install libopencore-amrwb-dev
 
 # wget 最新稳定版
-wget https://ffmpeg.org/releases/ffmpeg-4.2.1.tar.xz
+wget https://ffmpeg.org/releases/ffmpeg-4.2.1.tar.xz  
 tar xvJf ffmpeg-4.2.1.tar.xz 
 
 # 编译 
