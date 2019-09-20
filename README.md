@@ -4,10 +4,10 @@
 
 # install libs 
 
-apt -y install yasm
-apt -y install apt install libmp3lame-dev 
-apt -y install libopencore-amrnb-dev
-apt -y install libopencore-amrwb-dev
+apt -y install yasm  
+apt -y install  libmp3lame-dev  
+apt -y install libopencore-amrnb-dev  
+apt -y install libopencore-amrwb-dev  
 
 # wget 最新稳定版
 wget https://ffmpeg.org/releases/ffmpeg-4.2.1.tar.xz  
